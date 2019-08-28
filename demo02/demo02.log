@@ -1,0 +1,48 @@
+2019-08-26 13:30:05.116 ERROR 21512 --- [main] o.s.b.c.l.LoggingApplicationListener     : Cannot set level 'trance' for 'com.yu.yt'
+2019-08-26 13:30:06.623  INFO 21512 --- [main] com.yu.demo02.Demo02ApplicationTests     : Starting Demo02ApplicationTests on DESKTOP-2DRNKJN with PID 21512 (started by Nibiru in F:\IdeaWorkspaces\yt1\demo02)
+2019-08-26 13:30:06.635  INFO 21512 --- [main] com.yu.demo02.Demo02ApplicationTests     : The following profiles are active: test
+2019-08-26 13:30:26.276  INFO 21512 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-26 13:30:32.848  INFO 21512 --- [main] com.yu.demo02.Demo02ApplicationTests     : Started Demo02ApplicationTests in 31.593 seconds (JVM running for 38.92)
+2019-08-26 13:30:37.479  INFO 21512 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-08-26 14:10:43.907 ERROR 18272 --- [main] o.s.b.c.l.LoggingApplicationListener     : Cannot set level 'trance' for 'com.yu.yt'
+2019-08-26 14:10:44.707  INFO 18272 --- [main] com.yu.demo02.Demo02ApplicationTests     : Starting Demo02ApplicationTests on DESKTOP-2DRNKJN with PID 18272 (started by Nibiru in F:\IdeaWorkspaces\yt1\demo02)
+2019-08-26 14:10:44.711  INFO 18272 --- [main] com.yu.demo02.Demo02ApplicationTests     : The following profiles are active: test
+2019-08-26 14:11:01.274  INFO 18272 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-26 14:11:04.769  INFO 18272 --- [main] com.yu.demo02.Demo02ApplicationTests     : Started Demo02ApplicationTests in 25.363 seconds (JVM running for 38.356)
+2019-08-26 14:11:06.926  INFO 18272 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-08-26 14:13:05.015 ERROR 22872 --- [main] o.s.b.c.l.LoggingApplicationListener     : Cannot set level 'trance' for 'com.yu.demo02'
+2019-08-26 14:13:05.758  INFO 22872 --- [main] com.yu.demo02.Demo02ApplicationTests     : Starting Demo02ApplicationTests on DESKTOP-2DRNKJN with PID 22872 (started by Nibiru in F:\IdeaWorkspaces\yt1\demo02)
+2019-08-26 14:13:05.759  INFO 22872 --- [main] com.yu.demo02.Demo02ApplicationTests     : The following profiles are active: test
+2019-08-26 14:13:21.484  INFO 22872 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-26 14:13:26.034  INFO 22872 --- [main] com.yu.demo02.Demo02ApplicationTests     : Started Demo02ApplicationTests in 25.197 seconds (JVM running for 37.559)
+2019-08-26 14:13:30.049  INFO 22872 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-08-26 14:19:25.113  INFO 21676 --- [main] com.yu.demo02.Demo02ApplicationTests     : Starting Demo02ApplicationTests on DESKTOP-2DRNKJN with PID 21676 (started by Nibiru in F:\IdeaWorkspaces\yt1\demo02)
+2019-08-26 14:19:25.116 DEBUG 21676 --- [main] com.yu.demo02.Demo02ApplicationTests     : Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-08-26 14:19:25.117  INFO 21676 --- [main] com.yu.demo02.Demo02ApplicationTests     : The following profiles are active: test
+2019-08-26 14:19:41.249  INFO 21676 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-26 14:19:44.775  INFO 21676 --- [main] com.yu.demo02.Demo02ApplicationTests     : Started Demo02ApplicationTests in 24.318 seconds (JVM running for 32.524)
+2019-08-26 14:19:46.366  INFO 21676 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-08-26 14:40:33.370  INFO 17604 --- [main] com.yu.demo02.Demo02ApplicationTests     : Starting Demo02ApplicationTests on DESKTOP-2DRNKJN with PID 17604 (started by Nibiru in F:\IdeaWorkspaces\yt1\demo02)
+2019-08-26 14:40:34.712 DEBUG 17604 --- [main] com.yu.demo02.Demo02ApplicationTests     : Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-08-26 14:40:34.717  INFO 17604 --- [main] com.yu.demo02.Demo02ApplicationTests     : The following profiles are active: test
+2019-08-26 14:41:05.844  INFO 17604 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-26 14:41:10.340  INFO 17604 --- [main] com.yu.demo02.Demo02ApplicationTests     : Started Demo02ApplicationTests in 41.268 seconds (JVM running for 49.529)
+2019-08-26 14:41:15.073  INFO 17604 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-08-26 14:52:39.953  INFO 21780 --- [main] com.yu.demo02.Demo02ApplicationTests     : Starting Demo02ApplicationTests on DESKTOP-2DRNKJN with PID 21780 (started by Nibiru in F:\IdeaWorkspaces\yt1\demo02)
+2019-08-26 14:52:39.992 DEBUG 21780 --- [main] com.yu.demo02.Demo02ApplicationTests     : Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-08-26 14:52:39.996  INFO 21780 --- [main] com.yu.demo02.Demo02ApplicationTests     : The following profiles are active: test
+2019-08-26 14:53:00.820  INFO 21780 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-26 14:53:05.224  INFO 21780 --- [main] com.yu.demo02.Demo02ApplicationTests     : Started Demo02ApplicationTests in 28.917 seconds (JVM running for 38.546)
+2019-08-26 14:53:08.546  INFO 21780 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-08-26 15:02:59.438  INFO 21308 --- [main] com.yu.demo02.Demo02ApplicationTests     : Starting Demo02ApplicationTests on DESKTOP-2DRNKJN with PID 21308 (started by Nibiru in F:\IdeaWorkspaces\yt1\demo02)
+2019-08-26 15:02:59.647 DEBUG 21308 --- [main] com.yu.demo02.Demo02ApplicationTests     : Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-08-26 15:02:59.652  INFO 21308 --- [main] com.yu.demo02.Demo02ApplicationTests     : The following profiles are active: test
+2019-08-26 15:03:15.216  INFO 21308 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-26 15:03:20.444  INFO 21308 --- [main] com.yu.demo02.Demo02ApplicationTests     : Started Demo02ApplicationTests in 24.923 seconds (JVM running for 33.004)
+2019-08-26 15:03:28.961  INFO 21308 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-08-26 15:09:05.557  INFO 23508 --- [main] com.yu.demo02.Demo02ApplicationTests     : Starting Demo02ApplicationTests on DESKTOP-2DRNKJN with PID 23508 (started by Nibiru in F:\IdeaWorkspaces\yt1\demo02)
+2019-08-26 15:09:05.559 DEBUG 23508 --- [main] com.yu.demo02.Demo02ApplicationTests     : Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-08-26 15:09:05.559  INFO 23508 --- [main] com.yu.demo02.Demo02ApplicationTests     : The following profiles are active: test
+2019-08-26 15:09:28.219  INFO 23508 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-26 15:09:34.035  INFO 23508 --- [main] com.yu.demo02.Demo02ApplicationTests     : Started Demo02ApplicationTests in 36.123 seconds (JVM running for 54.97)
+2019-08-26 15:09:36.155  INFO 23508 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'

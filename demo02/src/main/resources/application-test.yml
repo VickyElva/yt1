@@ -1,0 +1,8 @@
+server:
+  port: 8082
+logging:
+  level:
+    com:
+        yu:
+          demo02: trace
+  file: demo02.log
